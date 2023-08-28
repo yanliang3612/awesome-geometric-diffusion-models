@@ -17,7 +17,7 @@ Should you have any pertinent papers or code additions for this list, kindly sub
 
 **Structure-based Drug Design with Equivariant Diffusion Models**      
 > *Arne Schneuing<sup>1</sup>, Yuanqi Du<sup>1</sup>, Charles Harris, Arian Jamasb, Ilia Igashov, Weitao Du, Tom Blundell, Pietro Lió, Carla Gomes, Max Welling, Michael Bronstein, Bruno Correia* \
-> arXiv 2022. [[Paper](https://arxiv.org/abs/2210.13695)] [[Github](https://github.com/arneschneuing/DiffSBDD)]\
+> arXiv 2022. [[Paper](https://arxiv.org/abs/2210.13695)] [[Code](https://github.com/arneschneuing/DiffSBDD)]\
 > 24 Oct 2022\
 > **Molecular**
 
@@ -30,7 +30,7 @@ Should you have any pertinent papers or code additions for this list, kindly sub
 
 **(Targetdiff) 3D Equivariant Diffusion for Target-Aware Molecule Generation and Affinity Prediction**      
 > *Jiaqi Guan, Wesley Wei Qian, Xingang Peng, Yufeng Su, Jian Peng, Jianzhu Ma* \
-> ICLR 2023. [[Paper](https://arxiv.org/abs/2303.03543)] [[Github](https://github.com/guanjq/targetdiff)]\
+> ICLR 2023. [[Paper](https://arxiv.org/abs/2303.03543)] [[Code](https://github.com/guanjq/targetdiff)]\
 > 30 Sep 2022\
 > **Molecular Generation Condtioned On Target Protein**
 
@@ -42,7 +42,7 @@ Should you have any pertinent papers or code additions for this list, kindly sub
 
 **Protein structure generation via folding diffusion** 
 > *Kevin E. Wu, Kevin K. Yang, Rianne van den Berg, James Y. Zou, Alex X. Lu, Ava P. Amini* \
-> arXiv 2022. [[Paper](https://arxiv.org/abs/2209.15611)] [[Github](https://github.com/microsoft/foldingdiff)] \
+> arXiv 2022. [[Paper](https://arxiv.org/abs/2209.15611)] [[Code](https://github.com/microsoft/foldingdiff)] \
 > 30 Sep 2022\
 > **Protein**
 
