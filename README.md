@@ -9,7 +9,7 @@ Should you have any pertinent papers or code additions for this list, kindly sub
 
 ![image](https://user-images.githubusercontent.com/39299863/200123000-885b05d3-636b-4dc2-886f-86d348ee9eef.png)
 
-![gif](https://twitter.com/i/status/1509838163375706112)
+![gif](https://towardsdatascience.com/denoising-diffusion-generative-models-in-graph-ml-c496af5811c5)
 
 
 **DiffDock: Diffusion Steps, Twists, and Turns for Molecular Docking** 
