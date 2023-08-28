@@ -26,7 +26,13 @@ Should you have any pertinent papers or code additions for this list, kindly sub
 > *Ilia Igashov, Hannes Stärk, Clément Vignac, Victor Garcia Satorras, Pascal Frossard, Max Welling, Michael Bronstein, Bruno Correia* \
 > arXiv 2022. [[Paper](https://arxiv.org/abs/2210.05274)] \
 > 11 Oct 2022\
-> **Molecular**
+> **Basic Molecular Generation Model**
+
+**3D Equivariant Diffusion for Target-Aware Molecule Generation and Affinity Prediction**      
+> *Jiaqi Guan, Wesley Wei Qian, Xingang Peng, Yufeng Su, Jian Peng, Jianzhu Ma* \
+> ICLR 2023. [[Paper](https://arxiv.org/abs/2303.03543)] [[Github](https://github.com/guanjq/targetdiff)]\
+> 30 Sep 2022\
+> **Molecular Generation Condtioned On Target Protein**
 
 **Equivariant Energy-Guided SDE for Inverse Molecular Design**  
 > *Fan Bao<sup>1</sup>, Min Zhao<sup>1</sup>, Zhongkai Hao, Peiyao Li, Chongxuan Li, Jun Zhu* \
