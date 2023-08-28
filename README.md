@@ -8,7 +8,9 @@ Should you have any pertinent papers or code additions for this list, kindly sub
 
 
 ![image](https://user-images.githubusercontent.com/39299863/200123000-885b05d3-636b-4dc2-886f-86d348ee9eef.png)
-![image](https://github.com/ehoogeboom/e3_diffusion_for_molecules/blob/main/equivariant_diffusion/overview.png)
+
+![image](https://twitter.com/i/status/1509838163375706112)
+
 
 **DiffDock: Diffusion Steps, Twists, and Turns for Molecular Docking** 
 > *Gabriele Corso, Hannes Stärk, Bowen Jing, Regina Barzilay, Tommi Jaakkola* \
