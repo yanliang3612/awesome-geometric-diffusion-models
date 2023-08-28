@@ -28,7 +28,7 @@ Should you have any pertinent papers or code additions for this list, kindly sub
 > 11 Oct 2022\
 > **Basic Molecular Generation Model**
 
-**3D Equivariant Diffusion for Target-Aware Molecule Generation and Affinity Prediction**      
+**(Targetdiff) 3D Equivariant Diffusion for Target-Aware Molecule Generation and Affinity Prediction**      
 > *Jiaqi Guan, Wesley Wei Qian, Xingang Peng, Yufeng Su, Jian Peng, Jianzhu Ma* \
 > ICLR 2023. [[Paper](https://arxiv.org/abs/2303.03543)] [[Github](https://github.com/guanjq/targetdiff)]\
 > 30 Sep 2022\
@@ -113,13 +113,13 @@ Should you have any pertinent papers or code additions for this list, kindly sub
 > 19 Apr 2022\
 > **Molecular Dynamics**
 
-**Equivariant Diffusion for Molecule Generation in 3D**  
+**(EDM) Equivariant Diffusion for Molecule Generation in 3D**  
 > *Emiel Hoogeboom<sup>1</sup>, Victor Garcia Satorras<sup>1</sup>, Clément Vignac, Max Welling* \
 > ICML 2022. [[Paper](https://arxiv.org/abs/2203.17003)] [[Github](https://github.com/ehoogeboom/e3_diffusion_for_molecules)] \
 > 31 Mar 2022\
 > **Molecule**
 
-**GeoDiff: a Geometric Diffusion Model for Molecular Conformation Generation**  
+**(GeoDiff) GeoDiff: a Geometric Diffusion Model for Molecular Conformation Generation**  
 > *Minkai Xu, Lantao Yu, Yang Song, Chence Shi, Stefano Ermon, Jian Tang* \
 > ICLR 2022 oral. [[Paper](https://arxiv.org/abs/2203.02923)] [[Github](https://github.com/MinkaiXu/GeoDiff)] \
 > 6 Mar 2022\
