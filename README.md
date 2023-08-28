@@ -72,7 +72,7 @@ Should you have any pertinent papers or code additions for this list, kindly sub
 
 **Antigen-Specific Antibody Design and Optimization with Diffusion-Based Generative Models** 
 > *Shitong Luo<sup>1</sup>, Yufeng Su<sup>1</sup>, Xingang Peng, Sheng Wang, Jian Peng, Jianzhu Ma* \
-> NeurIPS 2022. [[Paper](https://www.biorxiv.org/content/10.1101/2022.07.10.499510v1)][[Github](https://github.com/luost26/diffab)] \
+> NeurIPS 2022. [[Paper](https://www.biorxiv.org/content/10.1101/2022.07.10.499510v1)][[Code](https://github.com/luost26/diffab)] \
 > 11 July 2022\
 > **Molecular**
 
@@ -91,13 +91,13 @@ Should you have any pertinent papers or code additions for this list, kindly sub
 
 **Torsional Diffusion for Molecular Conformer Generation**   
 > *Bowen Jing, Gabriele Corso, Regina Barzilay, Tommi S. Jaakkola* \
-> ICLR Workshop 2022. [[Paper](https://arxiv.org/abs/2206.01729)] [[Github](https://github.com/gcorso/torsional-diffusion)] \
+> ICLR Workshop 2022. [[Paper](https://arxiv.org/abs/2206.01729)] [[Code](https://github.com/gcorso/torsional-diffusion)] \
 > 1 Jun 2022\
 > **Molecular**
 
 **Protein Structure and Sequence Generation with Equivariant Denoising Diffusion Probabilistic Models** 
 > *Namrata Anand, Tudor Achim* \
-> arXiv 2022. [[Paper](https://arxiv.org/abs/2205.15019)] [[Project](https://nanand2.github.io/proteins/)] [[Github](https://github.com/lucidrains/ddpm-ipa-protein-generation)] \
+> arXiv 2022. [[Paper](https://arxiv.org/abs/2205.15019)] [[Webpage](https://nanand2.github.io/proteins/)] [[Code](https://github.com/lucidrains/ddpm-ipa-protein-generation)] \
 > 26 May 2022\
 > **Protein**
 
@@ -115,18 +115,18 @@ Should you have any pertinent papers or code additions for this list, kindly sub
 
 **(EDM) Equivariant Diffusion for Molecule Generation in 3D**  
 > *Emiel Hoogeboom<sup>1</sup>, Victor Garcia Satorras<sup>1</sup>, Clément Vignac, Max Welling* \
-> ICML 2022. [[Paper](https://arxiv.org/abs/2203.17003)] [[Github](https://github.com/ehoogeboom/e3_diffusion_for_molecules)] \
+> ICML 2022. [[Paper](https://arxiv.org/abs/2203.17003)] [[Code](https://github.com/ehoogeboom/e3_diffusion_for_molecules)] \
 > 31 Mar 2022\
 > **Molecule**
 
 **(GeoDiff) GeoDiff: a Geometric Diffusion Model for Molecular Conformation Generation**  
 > *Minkai Xu, Lantao Yu, Yang Song, Chence Shi, Stefano Ermon, Jian Tang* \
-> ICLR 2022 oral. [[Paper](https://arxiv.org/abs/2203.02923)] [[Github](https://github.com/MinkaiXu/GeoDiff)] \
+> ICLR 2022 oral. [[Paper](https://arxiv.org/abs/2203.02923)] [[Code](https://github.com/MinkaiXu/GeoDiff)] \
 > 6 Mar 2022\
 > **Molecular**
 
 **Crystal Diffusion Variational Autoencoder for Periodic Material Generation** 
 > *Tian Xie<sup>1</sup>, Xiang Fu<sup>1</sup>, Octavian-Eugen Ganea<sup>1</sup>, Regina Barzilay, Tommi Jaakkola*\
-> ICLR 2022. [[Paper](https://arxiv.org/abs/2110.06197)] [[Github](https://github.com/txie-93/cdvae)] \
+> ICLR 2022. [[Paper](https://arxiv.org/abs/2110.06197)] [[Code](https://github.com/txie-93/cdvae)] \
 > 12 Oct 2021\
 > **Materials**
